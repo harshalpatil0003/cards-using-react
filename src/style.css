@@ -1,20 +1,33 @@
 body{
-    background-color: #ffbebe;
+    background-color: #ffffff;
 }
 .card{
+    margin: 100px auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
- 
     align-items: center;
-
 
 }
 .cards{
+    box-shadow: 0 0 1000px 1px black;
     margin-top: 20px;
-    background-color: aliceblue;
+    background-color: rgb(231, 243, 253);
     width: 200px;
-    border: 1px solid black;
-    border-radius: 10px;
+    height: 400px;
+    border-radius: 5px;
     padding: 20px;
+    margin-right: 30px;
+}
+.poster{
+    height: 250px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.duration{
+    color: red;
+}
+h2{
+    text-transform: uppercase;
 }

@@ -16,7 +16,7 @@ root.render(<>
         <MovieCards
             name="Interstellar"
             category=" Sci-fi/Adventure"
-            url="https://images-cdn.ubuy.co.in/636c6d63d6eef30f6307a004-movie-interstellar-classic-movie-poster.jpg"
+            url="https://www.tallengestore.com/cdn/shop/products/INST4_1_3f6df034-aff3-40d3-ba58-38ad5a0a5586.jpg?v=1569292609"
             duration="  2h 49m" />
 
         <MovieCards
@@ -28,14 +28,50 @@ root.render(<>
         <MovieCards
             name="Dune"
             category="Sci-fi/Adventure"
-            url=""
+            url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5lbyRQB-2B0GN427FiKSIhw_4utzfQBJhmGkBE7ALro7hmTuAT7j8SrfSJm2xlvDLKQ&usqp=CAU"
             duration=" 2h 46m" />
 
         <MovieCards
             name="Inception"
             category=" Sci-fi/Action"
-            url=""
+            url="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7825626_p_v8_ae.jpg"
             duration=" 2h 28m" />
+
+        <MovieCards
+            name="Top Gun: Maverick"
+            category="  Action/Adventure"
+            url="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"
+            duration=" 2h 13m" />
+
+        <MovieCards
+            name="Extraction"
+            category="  Action/Thriller"
+            url="https://image.tmdb.org/t/p/original/6ht5v2qdyfxVeHIAbM19SRlypXp.jpg"
+            duration="  1h 56m
+            " />
+
+        <MovieCards
+            name="Venom"
+            category=" Sci-fi/Action"
+            url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-lVYDx9TktRCZL4KgQSGdnYK5pNuEK6U7ZG0rbRvL3FIXVa6fNS1F0QQ0NcaBqx9NKY&usqp=CAU"
+            duration=" 1h 52m
+            " />
+
+        <MovieCards
+            name="Oppenheimer"
+            category=" Thriller/Historical drama"
+            url="https://www.postersplug.com/cdn/shop/products/oppenheimer-movie-poster-113945.jpg?v=1692902182"
+            duration=" 3 hours
+            " />
+
+        <MovieCards
+            name="Ghostbusters"
+            category=" Comedy/Action"
+            url="https://m.media-amazon.com/images/M/MV5BNGYzNDM0M2QtZDFkNy00OTI2LWIyNjctNjNhNDM5Zjk3NzU2XkEyXkFqcGdeQXVyNjQ3MDg0MTY@._V1_.jpg"
+            duration=" 1h 56m
+            " />
+
+
     </div>
 </>
 
