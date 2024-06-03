@@ -1,0 +1,20 @@
+body{
+    background-color: #ffbebe;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+    align-items: center;
+
+
+}
+.cards{
+    margin-top: 20px;
+    background-color: aliceblue;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
